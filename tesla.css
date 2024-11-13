@@ -1,0 +1,507 @@
+@import url(https://digitalassets.tesla.com/tesla-design-system/raw/upload/static/fonts/intl-fonts/Noto-Sans-KR.css);
+@import url(https://digitalassets.tesla.com/tesla-design-system/raw/upload/static/fonts/intl-fonts/Noto-Sans-KR.css);
+@import url('https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap');
+*{
+    margin: 0;
+    /* background-color: rgba(98, 98, 99, 0.096); */
+}
+.neon{
+        font-family: 'neon', serif;
+        }
+.blue{
+    background: url(./model-y.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    display: flex;
+}
+.cover{
+    display: flex;
+    /* border: 1px solid green; */
+    position: relative;
+    right: 1.8rem;
+    top: -0.1rem;
+}
+.tesla{
+    display:flex;
+    color: rgb(229, 231, 233);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* letter-spacing: 0.3px; */
+    font-weight: 600;
+    src: url(https://fonts.gstatic.com/s/notosanskr/v36/PbykFmXiEBPT4ITbgNA5Cgm203Tq4JJWq209pU0DPdWuqxJFA4GNDCBYtw.0.woff2) format('woff2');
+    font-size: 0.6rem;
+    /* border: 1px solid red; */
+    margin-left: 22px;
+}
+.tes{
+    /* border: 1px solid green; */
+    position: relative;
+    right: 0.1rem;
+    top: -0.8rem;
+}
+.nav{
+    display:flex;
+    color: rgb(229, 231, 233);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* letter-spacing: 0.3px; */
+    font-weight: 600;
+    src: url(https://fonts.gstatic.com/s/notosanskr/v36/PbykFmXiEBPT4ITbgNA5Cgm203Tq4JJWq209pU0DPdWuqxJFA4GNDCBYtw.0.woff2) format('woff2');
+    font-size: 0.5rem;
+    /* border: 1px solid red; */
+    margin-left: 1.4rem;
+}
+.nav .n6{
+    display: none;
+}
+.icons{
+    background-color: none;
+    color: aliceblue;
+    /* border: 1px solid blue; */
+    align-content: center;
+    position: relative;
+    left: 1.5rem;
+    /* margin-top: rem; */
+}
+ .icon{
+    list-style: none;
+    display: flex;
+    /* border: 1px solid gold; */
+    padding-left: 0px;
+    
+}
+.link{
+    margin-left:10px ;
+    padding-left: px;
+}
+.modey{
+    margin-top: -0.9rem;
+    /* border: 1px solid green; */
+    width: 50%;
+    margin-left: 13.5rem;
+    background: none;
+}
+.blue{
+    color: whitesmoke;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.due{
+    font-weight: 650;
+    width: 40%;
+    margin-top: -0.4rem;
+    padding-bottom: 0.15rem;
+    font-size: 1rem;
+    margin-left: 6.5rem;
+}
+.my{
+    font-weight: 640;
+    
+}
+.fr{
+    font-size:12px;
+    font-weight: 750;
+    margin-top: -0.3rem;
+    /* border: 1px solid firebrick; */
+}
+.order{
+    margin-right: 1rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:0.5rem;
+    font-weight: 550;
+    border-radius:3px ;
+    background-color: #3E6AE1;
+    border: none;
+    color: white;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    padding-left: 2.7rem;
+    padding-right: 2.7rem;
+}
+.demo{
+    border: 3px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 0.5rem;
+    font-weight: 550;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    padding-left:2.7rem;
+    padding-right:2.7rem;
+    /* border: 2px solid red; */
+    margin-right: 1rem;
+    border-radius:3px ;
+    background-color: rgb(238, 238, 238);
+    /* border-style: none; */
+    color: rgb(54, 54, 54);
+}.blue
+.btn{
+    margin-top: 11.66rem;
+    padding-bottom: 1.55rem;
+    cursor: grab;
+}
+.new{
+    background: url(./Homepage-Model-3-Desktop-US.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.modey2{
+    color: white;
+    padding-top: 2rem;
+}
+.mode3{
+    font-weight: 640;
+}
+.due2{
+    width: 8.6rem;
+    margin-top: -0.4rem;
+    padding-bottom: 0.15rem;
+    /* font-size: 10px; */
+    margin-left: 19.55rem;
+}
+.fr2{
+    font-size:11px;
+    font-weight: 750;
+    margin-top: -0.3rem;
+}
+.btn2{
+    margin-top: 13.4rem;
+    padding-bottom: 1rem; 
+}
+.modeyX{
+    background: url(./Homepage-Model-X-Desktop-US.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+.modex{
+    padding-top: 2rem;
+    font-weight: 800;
+    font-size: 35px;
+}
+.due3{
+    font-weight: 650;
+    margin-top: -0.4rem;
+    
+}
+.fr3{
+    width: 11rem;
+    margin-top: -0.4rem;
+    padding-bottom: 0.15rem;
+    font-size: 0.7rem;
+    margin-left: 18.5rem;
+}
+.btn3{
+    margin-top: 13.4rem;
+    padding-bottom: 1rem; 
+}
+
+.modelS{
+    background: url(./Homepage-Model-S-Desktop-US.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.modexs{
+    padding-top: 2rem;
+    font-weight: 800;
+    font-size: 35px;
+}
+.due4{
+    font-weight: 650;
+    margin-top: -0.4rem;
+}
+.fr4{
+    /* width: 11rem; */
+    margin-top: -0.4rem;
+    padding-bottom: 0.15rem;
+    font-size: 0.7rem;
+    /* margin-left: 22.5rem;    */
+}
+.gas{
+    font-size: 0.7rem;   
+}
+.btn4{
+    margin-top: 15.56rem;
+    padding-bottom: 1rem; 
+}
+.cybertruck{
+  background: url(./Homepage-Cybertruck-Desktop-v3.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.CY1{
+    font-family: "Trade Winds", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.CY2{
+    margin-top: -0.7rem;
+    padding-left: 3.5rem;
+    
+}
+.CY3{
+    margin-top: 16.76rem;
+}
+.solarp{
+    background: url(./SolarPanels.avif);
+    background-position: center;
+    background-size: cover;
+}
+.sol{
+    font-size: 2.4rem;
+    padding-top: 2rem;
+}
+.due5{
+    margin-top: -0.4rem;
+    padding-bottom: 0.15rem;
+    font-size: 0.9rem;
+    font-weight: 700;
+    width: 15rem;
+    margin-left: 17rem;       
+}
+.btn5{
+    margin-top: 16.36rem;
+    padding-bottom: 1rem; 
+}
+.solarR{
+    background: url(./Homepage-SolarRoof-Desktop-US.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.solr{
+    padding-top: 2rem;
+    font-size: 2.3rem;
+    font-weight: 600;
+}
+.due6{
+    font-weight: 700;   
+}
+.powerwall{
+    background: url(./Homepage-Powerwall-Desktop-US.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.btn6{
+    margin-top: 18.1rem;
+    padding-bottom: 1rem; 
+}
+.access{
+    background: url(./Homepage-Accessories-Desktop-US.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.end{
+    background-color: black;
+    /* font-family: ; */
+    padding-left: 13.3rem;
+    padding-right: 13.3rem;
+    font-size: 8px;
+    font-weight: 600;
+    /* justify-items: center; */
+
+}
+footer{
+    overflow: hidden;
+    margin-bottom: 0;
+}
+section.endin{
+    padding-top: 2rem;
+    /* border: 1px solid rebeccapurple; */
+    padding-left: 0.3756rem;
+    padding-right: 0.3756rem;
+    font-size: 0.43rem;
+    font-weight: 500;
+    color: rgba(233, 236, 248, 0.897);
+}
+a.b{
+    color: white;
+}
+.endi{
+    /* border: 1px solid rebeccapurple; */
+   margin-top: 2rem;
+   padding-bottom: 1rem;
+}
+.endg{
+  
+    margin-left: 0.5rem;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 0.35rem;
+}
+
+footer.end{
+    margin-bottom: 0;
+    /* border-bottom:2px solid black; */
+
+}
+select{
+background: none;
+backdrop-filter:blur(90px);
+border: none;
+cursor:pointer;
+padding: 4px 1px;
+border-radius: 0.15rem;
+}
+option{
+    color:black;
+    font:500 12px  Arial, Helvetica, sans-serif;
+}
+option:hover {
+    background-color: green;
+}
+
+@media only screen and (max-width:480px) and (min-width:320px) {
+    *{
+        margin: 0;
+    }
+    body{
+        overflow-y: scroll;
+        overflow-x: hidden;
+    }
+    .icons{
+        display: none;
+    }
+    .cover{
+        display: none;
+    }
+    .due, .due2{
+        font-weight: 649;
+        width: 39%;
+        margin-top: -0.4rem;
+        padding-bottom: 0.1rem;
+        font-size: 1rem;
+        margin-left: 7.5rem;
+    }
+    .fr3{
+        width: 11rem;
+        margin-top: -0.4rem;
+        padding-bottom: 0.15rem;
+        font-size: 0.7rem;
+        margin-left: 6.5rem;
+    }
+    .due5{
+        position: relative;
+        right: 2rem;
+    }
+    .modey{
+        margin-top: 0.1rem;
+        width: 100%;
+        margin-left: 0.9rem;
+        background: none;
+    }
+    .my{
+        font-weight: 640;
+    }    
+    .tes{
+        position: relative;
+        right: -0.8rem;
+        top: -0.2rem;
+    }
+    .icons{
+        background-color: none;
+        color: aliceblue;
+        align-content: center;
+        position: relative;
+        left: -0.5rem;
+        margin-top: rem;
+    }
+    .due5{
+        margin-top: -0.4rem;
+        padding-bottom: 0.15rem;
+        font-size: 0.9rem;
+        font-weight: 700;
+        width: 15rem;
+        margin-left: 6.5rem;       
+    }
+    .endin{
+    margin: 0;
+    text-align: center;
+    padding-top:1.4rem ;
+    margin-left:0.68rem;
+    margin-right:0.68rem;
+    font-size: 0.3rem;
+    font-weight: 500;
+    color: rgba(233, 236, 248, 0.897);
+}
+.end{
+    background-color: black;
+    padding-left:-0rem;
+    padding-right:-0rem;
+    text-align: center;
+    font-size: 8px;
+    font-weight: 600;
+}
+.tesla{
+    display: block;
+}
+}
+@media only screen and (min-width:481px) and (max-width:3000px) {
+    .tesla{
+        display: none;
+    }
+    }
+
+    @media only screen and (min-width:481px) and (max-width:680px){
+.modey{
+    margin-top: -0.9rem;
+    /* border: 1px solid green; */
+    width: 50%;
+    margin-left: 11.5rem;
+}
+.due{
+    font-weight: 650;
+    width: 43%;
+    margin-top: -0.4rem;
+    padding-bottom: 0.15rem;
+    font-size: 1rem;
+    margin-left: 5.66rem;
+}
+.due2{
+    margin-left: 15.5rem;
+}
+.fr3{
+    margin-left: 15.5rem;
+}
+.due5{
+    margin-left: 13rem;
+}
+.endin{
+    padding-top: 2rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    font-size: 0.43rem;
+    font-stretch: normal;
+    font-weight: 500;
+    color: rgba(233, 236, 248, 0.897);
+}
+.end{
+    /* padding: 0rem; */
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+    }
+    @media screen and (min-width:820px) and (max-width:1180px) {
+        .due{
+           margin-left: 10.2rem;
+        }
+        .due2{
+            margin-left: 32.5rem;
+        }
+        .fr3{
+            margin-left: 31.5rem;
+        }
+    }
+    @media screen and (min-width:912px) and (max-width:1368px) {
+        .due{
+           margin-left: 8.2rem;
+        }
+        .due2{
+            width: 16%;
+            margin-left: 23.5rem;
+        }
+        .fr3{
+            margin-left: 23.5rem;
+        }
+        .due5{
+            margin-left:21rem ;
+        }
+    }
