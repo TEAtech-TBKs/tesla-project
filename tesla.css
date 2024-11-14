@@ -453,6 +453,7 @@ option:hover {
     margin-top: -0.4rem;
     padding-bottom: 0.15rem;
     font-size: 1rem;
+    /* border: 1px solid green; */
     margin-left: 5.66rem;
 }
 .due2{
@@ -481,13 +482,16 @@ option:hover {
     }
     @media screen and (min-width:820px) and (max-width:1180px) {
         .due{
-           margin-left: 10.2rem;
+           margin-left: 8.2rem;
         }
         .due2{
-            margin-left: 32.5rem;
+            margin-left: 23.5rem;
         }
         .fr3{
-            margin-left: 31.5rem;
+            margin-left: 22.7rem;
+        }
+        .due5{
+            margin-left: 21rem;
         }
     }
     @media screen and (min-width:912px) and (max-width:1368px) {
