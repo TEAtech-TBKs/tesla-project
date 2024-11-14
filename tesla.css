@@ -439,8 +439,8 @@ option:hover {
         display: none;
     }
     }
-
-    @media only screen and (min-width:481px) and (max-width:680px){
+    
+    @media only screen and(min-width:481px) and (max-width:680px){
 .modey{
     margin-top: -0.9rem;
     /* border: 1px solid green; */
@@ -509,3 +509,18 @@ option:hover {
             margin-left:21rem ;
         }
     }
+@media screen and (min-width:1024px){
+    .due{
+        margin-left: 8.87rem;
+     }
+     .due2{
+         width: 16%;
+         margin-left: 26.1rem;
+     }
+     .fr3{
+         margin-left: 26.8rem;
+     }
+     .due5{
+         margin-left:24.6rem ;
+     }
+}
